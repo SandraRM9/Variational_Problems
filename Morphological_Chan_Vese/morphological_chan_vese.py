@@ -11,7 +11,7 @@ from scipy.special import erf
 # MEDICAL IMAGE LOADING (CT SCAN)
 # --------------------------------------
 
-image_path = "Chron_disease.jpg"
+image_path = "Crohn_disease.jpg"
 
 image = img_as_float(io.imread(image_path))
 
